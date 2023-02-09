@@ -1,0 +1,15 @@
+F:\BSE-4B\assignments\practice\practice\practice\bin\Debug\net6.0\practice.exe
+F:\BSE-4B\assignments\practice\practice\practice\bin\Debug\net6.0\practice.deps.json
+F:\BSE-4B\assignments\practice\practice\practice\bin\Debug\net6.0\practice.runtimeconfig.json
+F:\BSE-4B\assignments\practice\practice\practice\bin\Debug\net6.0\practice.dll
+F:\BSE-4B\assignments\practice\practice\practice\bin\Debug\net6.0\practice.pdb
+F:\BSE-4B\assignments\practice\practice\practice\obj\Debug\net6.0\practice.csproj.AssemblyReference.cache
+F:\BSE-4B\assignments\practice\practice\practice\obj\Debug\net6.0\practice.GeneratedMSBuildEditorConfig.editorconfig
+F:\BSE-4B\assignments\practice\practice\practice\obj\Debug\net6.0\practice.AssemblyInfoInputs.cache
+F:\BSE-4B\assignments\practice\practice\practice\obj\Debug\net6.0\practice.AssemblyInfo.cs
+F:\BSE-4B\assignments\practice\practice\practice\obj\Debug\net6.0\practice.csproj.CoreCompileInputs.cache
+F:\BSE-4B\assignments\practice\practice\practice\obj\Debug\net6.0\practice.dll
+F:\BSE-4B\assignments\practice\practice\practice\obj\Debug\net6.0\refint\practice.dll
+F:\BSE-4B\assignments\practice\practice\practice\obj\Debug\net6.0\practice.pdb
+F:\BSE-4B\assignments\practice\practice\practice\obj\Debug\net6.0\practice.genruntimeconfig.cache
+F:\BSE-4B\assignments\practice\practice\practice\obj\Debug\net6.0\ref\practice.dll

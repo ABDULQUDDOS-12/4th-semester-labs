@@ -1,0 +1,15 @@
+F:\BSE-4B\assignments\SDA lab\calculator\calculator\bin\Debug\net6.0\calculator.exe
+F:\BSE-4B\assignments\SDA lab\calculator\calculator\bin\Debug\net6.0\calculator.deps.json
+F:\BSE-4B\assignments\SDA lab\calculator\calculator\bin\Debug\net6.0\calculator.runtimeconfig.json
+F:\BSE-4B\assignments\SDA lab\calculator\calculator\bin\Debug\net6.0\calculator.dll
+F:\BSE-4B\assignments\SDA lab\calculator\calculator\bin\Debug\net6.0\calculator.pdb
+F:\BSE-4B\assignments\SDA lab\calculator\calculator\obj\Debug\net6.0\calculator.csproj.AssemblyReference.cache
+F:\BSE-4B\assignments\SDA lab\calculator\calculator\obj\Debug\net6.0\calculator.GeneratedMSBuildEditorConfig.editorconfig
+F:\BSE-4B\assignments\SDA lab\calculator\calculator\obj\Debug\net6.0\calculator.AssemblyInfoInputs.cache
+F:\BSE-4B\assignments\SDA lab\calculator\calculator\obj\Debug\net6.0\calculator.AssemblyInfo.cs
+F:\BSE-4B\assignments\SDA lab\calculator\calculator\obj\Debug\net6.0\calculator.csproj.CoreCompileInputs.cache
+F:\BSE-4B\assignments\SDA lab\calculator\calculator\obj\Debug\net6.0\calculator.dll
+F:\BSE-4B\assignments\SDA lab\calculator\calculator\obj\Debug\net6.0\refint\calculator.dll
+F:\BSE-4B\assignments\SDA lab\calculator\calculator\obj\Debug\net6.0\calculator.pdb
+F:\BSE-4B\assignments\SDA lab\calculator\calculator\obj\Debug\net6.0\calculator.genruntimeconfig.cache
+F:\BSE-4B\assignments\SDA lab\calculator\calculator\obj\Debug\net6.0\ref\calculator.dll

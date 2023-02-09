@@ -1,0 +1,15 @@
+F:\BSE-4B\assignments\SDA lab\adapterPattern\adapterPattern\bin\Debug\net6.0\adapterPattern.exe
+F:\BSE-4B\assignments\SDA lab\adapterPattern\adapterPattern\bin\Debug\net6.0\adapterPattern.deps.json
+F:\BSE-4B\assignments\SDA lab\adapterPattern\adapterPattern\bin\Debug\net6.0\adapterPattern.runtimeconfig.json
+F:\BSE-4B\assignments\SDA lab\adapterPattern\adapterPattern\bin\Debug\net6.0\adapterPattern.dll
+F:\BSE-4B\assignments\SDA lab\adapterPattern\adapterPattern\bin\Debug\net6.0\adapterPattern.pdb
+F:\BSE-4B\assignments\SDA lab\adapterPattern\adapterPattern\obj\Debug\net6.0\adapterPattern.csproj.AssemblyReference.cache
+F:\BSE-4B\assignments\SDA lab\adapterPattern\adapterPattern\obj\Debug\net6.0\adapterPattern.GeneratedMSBuildEditorConfig.editorconfig
+F:\BSE-4B\assignments\SDA lab\adapterPattern\adapterPattern\obj\Debug\net6.0\adapterPattern.AssemblyInfoInputs.cache
+F:\BSE-4B\assignments\SDA lab\adapterPattern\adapterPattern\obj\Debug\net6.0\adapterPattern.AssemblyInfo.cs
+F:\BSE-4B\assignments\SDA lab\adapterPattern\adapterPattern\obj\Debug\net6.0\adapterPattern.csproj.CoreCompileInputs.cache
+F:\BSE-4B\assignments\SDA lab\adapterPattern\adapterPattern\obj\Debug\net6.0\adapterPattern.dll
+F:\BSE-4B\assignments\SDA lab\adapterPattern\adapterPattern\obj\Debug\net6.0\refint\adapterPattern.dll
+F:\BSE-4B\assignments\SDA lab\adapterPattern\adapterPattern\obj\Debug\net6.0\adapterPattern.pdb
+F:\BSE-4B\assignments\SDA lab\adapterPattern\adapterPattern\obj\Debug\net6.0\adapterPattern.genruntimeconfig.cache
+F:\BSE-4B\assignments\SDA lab\adapterPattern\adapterPattern\obj\Debug\net6.0\ref\adapterPattern.dll

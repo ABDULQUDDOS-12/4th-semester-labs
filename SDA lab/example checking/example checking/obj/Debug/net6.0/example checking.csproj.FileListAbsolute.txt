@@ -1,0 +1,15 @@
+F:\BSE-4B\assignments\SDA lab\example checking\example checking\bin\Debug\net6.0\example checking.exe
+F:\BSE-4B\assignments\SDA lab\example checking\example checking\bin\Debug\net6.0\example checking.deps.json
+F:\BSE-4B\assignments\SDA lab\example checking\example checking\bin\Debug\net6.0\example checking.runtimeconfig.json
+F:\BSE-4B\assignments\SDA lab\example checking\example checking\bin\Debug\net6.0\example checking.dll
+F:\BSE-4B\assignments\SDA lab\example checking\example checking\bin\Debug\net6.0\example checking.pdb
+F:\BSE-4B\assignments\SDA lab\example checking\example checking\obj\Debug\net6.0\example checking.csproj.AssemblyReference.cache
+F:\BSE-4B\assignments\SDA lab\example checking\example checking\obj\Debug\net6.0\example checking.GeneratedMSBuildEditorConfig.editorconfig
+F:\BSE-4B\assignments\SDA lab\example checking\example checking\obj\Debug\net6.0\example checking.AssemblyInfoInputs.cache
+F:\BSE-4B\assignments\SDA lab\example checking\example checking\obj\Debug\net6.0\example checking.AssemblyInfo.cs
+F:\BSE-4B\assignments\SDA lab\example checking\example checking\obj\Debug\net6.0\example checking.csproj.CoreCompileInputs.cache
+F:\BSE-4B\assignments\SDA lab\example checking\example checking\obj\Debug\net6.0\example checking.dll
+F:\BSE-4B\assignments\SDA lab\example checking\example checking\obj\Debug\net6.0\refint\example checking.dll
+F:\BSE-4B\assignments\SDA lab\example checking\example checking\obj\Debug\net6.0\example checking.pdb
+F:\BSE-4B\assignments\SDA lab\example checking\example checking\obj\Debug\net6.0\example checking.genruntimeconfig.cache
+F:\BSE-4B\assignments\SDA lab\example checking\example checking\obj\Debug\net6.0\ref\example checking.dll

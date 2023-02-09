@@ -1,0 +1,74 @@
+F:\BSE-4B\assignments\DBMS lab\dbms web app\dbms web app\bin\dbms web app.dll.config
+F:\BSE-4B\assignments\DBMS lab\dbms web app\dbms web app\bin\dbms web app.dll
+F:\BSE-4B\assignments\DBMS lab\dbms web app\dbms web app\bin\dbms web app.pdb
+F:\BSE-4B\assignments\DBMS lab\dbms web app\dbms web app\bin\roslyn\csc.exe
+F:\BSE-4B\assignments\DBMS lab\dbms web app\dbms web app\bin\roslyn\csc.exe.config
+F:\BSE-4B\assignments\DBMS lab\dbms web app\dbms web app\bin\roslyn\csc.rsp
+F:\BSE-4B\assignments\DBMS lab\dbms web app\dbms web app\bin\roslyn\csi.exe
+F:\BSE-4B\assignments\DBMS lab\dbms web app\dbms web app\bin\roslyn\csi.exe.config
+F:\BSE-4B\assignments\DBMS lab\dbms web app\dbms web app\bin\roslyn\csi.rsp
+F:\BSE-4B\assignments\DBMS lab\dbms web app\dbms web app\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\BSE-4B\assignments\DBMS lab\dbms web app\dbms web app\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\BSE-4B\assignments\DBMS lab\dbms web app\dbms web app\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\BSE-4B\assignments\DBMS lab\dbms web app\dbms web app\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\BSE-4B\assignments\DBMS lab\dbms web app\dbms web app\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\BSE-4B\assignments\DBMS lab\dbms web app\dbms web app\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\BSE-4B\assignments\DBMS lab\dbms web app\dbms web app\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\BSE-4B\assignments\DBMS lab\dbms web app\dbms web app\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\BSE-4B\assignments\DBMS lab\dbms web app\dbms web app\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\BSE-4B\assignments\DBMS lab\dbms web app\dbms web app\bin\roslyn\Microsoft.Managed.Core.targets
+F:\BSE-4B\assignments\DBMS lab\dbms web app\dbms web app\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\BSE-4B\assignments\DBMS lab\dbms web app\dbms web app\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\BSE-4B\assignments\DBMS lab\dbms web app\dbms web app\bin\roslyn\System.AppContext.dll
+F:\BSE-4B\assignments\DBMS lab\dbms web app\dbms web app\bin\roslyn\System.Collections.Immutable.dll
+F:\BSE-4B\assignments\DBMS lab\dbms web app\dbms web app\bin\roslyn\System.Console.dll
+F:\BSE-4B\assignments\DBMS lab\dbms web app\dbms web app\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+F:\BSE-4B\assignments\DBMS lab\dbms web app\dbms web app\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\BSE-4B\assignments\DBMS lab\dbms web app\dbms web app\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\BSE-4B\assignments\DBMS lab\dbms web app\dbms web app\bin\roslyn\System.Globalization.Calendars.dll
+F:\BSE-4B\assignments\DBMS lab\dbms web app\dbms web app\bin\roslyn\System.IO.Compression.dll
+F:\BSE-4B\assignments\DBMS lab\dbms web app\dbms web app\bin\roslyn\System.IO.Compression.ZipFile.dll
+F:\BSE-4B\assignments\DBMS lab\dbms web app\dbms web app\bin\roslyn\System.IO.FileSystem.dll
+F:\BSE-4B\assignments\DBMS lab\dbms web app\dbms web app\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\BSE-4B\assignments\DBMS lab\dbms web app\dbms web app\bin\roslyn\System.Net.Http.dll
+F:\BSE-4B\assignments\DBMS lab\dbms web app\dbms web app\bin\roslyn\System.Net.Sockets.dll
+F:\BSE-4B\assignments\DBMS lab\dbms web app\dbms web app\bin\roslyn\System.Reflection.Metadata.dll
+F:\BSE-4B\assignments\DBMS lab\dbms web app\dbms web app\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\BSE-4B\assignments\DBMS lab\dbms web app\dbms web app\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\BSE-4B\assignments\DBMS lab\dbms web app\dbms web app\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\BSE-4B\assignments\DBMS lab\dbms web app\dbms web app\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\BSE-4B\assignments\DBMS lab\dbms web app\dbms web app\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\BSE-4B\assignments\DBMS lab\dbms web app\dbms web app\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\BSE-4B\assignments\DBMS lab\dbms web app\dbms web app\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\BSE-4B\assignments\DBMS lab\dbms web app\dbms web app\bin\roslyn\System.ValueTuple.dll
+F:\BSE-4B\assignments\DBMS lab\dbms web app\dbms web app\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\BSE-4B\assignments\DBMS lab\dbms web app\dbms web app\bin\roslyn\System.Xml.XmlDocument.dll
+F:\BSE-4B\assignments\DBMS lab\dbms web app\dbms web app\bin\roslyn\System.Xml.XPath.dll
+F:\BSE-4B\assignments\DBMS lab\dbms web app\dbms web app\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\BSE-4B\assignments\DBMS lab\dbms web app\dbms web app\bin\roslyn\vbc.exe
+F:\BSE-4B\assignments\DBMS lab\dbms web app\dbms web app\bin\roslyn\vbc.exe.config
+F:\BSE-4B\assignments\DBMS lab\dbms web app\dbms web app\bin\roslyn\vbc.rsp
+F:\BSE-4B\assignments\DBMS lab\dbms web app\dbms web app\bin\roslyn\VBCSCompiler.exe
+F:\BSE-4B\assignments\DBMS lab\dbms web app\dbms web app\bin\roslyn\VBCSCompiler.exe.config
+F:\BSE-4B\assignments\DBMS lab\dbms web app\dbms web app\bin\Antlr3.Runtime.dll
+F:\BSE-4B\assignments\DBMS lab\dbms web app\dbms web app\bin\AspNet.ScriptManager.bootstrap.dll
+F:\BSE-4B\assignments\DBMS lab\dbms web app\dbms web app\bin\AspNet.ScriptManager.jQuery.dll
+F:\BSE-4B\assignments\DBMS lab\dbms web app\dbms web app\bin\Microsoft.AspNet.FriendlyUrls.dll
+F:\BSE-4B\assignments\DBMS lab\dbms web app\dbms web app\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+F:\BSE-4B\assignments\DBMS lab\dbms web app\dbms web app\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\BSE-4B\assignments\DBMS lab\dbms web app\dbms web app\bin\Microsoft.ScriptManager.MSAjax.dll
+F:\BSE-4B\assignments\DBMS lab\dbms web app\dbms web app\bin\Microsoft.ScriptManager.WebForms.dll
+F:\BSE-4B\assignments\DBMS lab\dbms web app\dbms web app\bin\Microsoft.Web.Infrastructure.dll
+F:\BSE-4B\assignments\DBMS lab\dbms web app\dbms web app\bin\Newtonsoft.Json.dll
+F:\BSE-4B\assignments\DBMS lab\dbms web app\dbms web app\bin\System.Web.Optimization.dll
+F:\BSE-4B\assignments\DBMS lab\dbms web app\dbms web app\bin\WebGrease.dll
+F:\BSE-4B\assignments\DBMS lab\dbms web app\dbms web app\bin\System.Web.Optimization.xml
+F:\BSE-4B\assignments\DBMS lab\dbms web app\dbms web app\bin\Newtonsoft.Json.xml
+F:\BSE-4B\assignments\DBMS lab\dbms web app\dbms web app\bin\Antlr3.Runtime.pdb
+F:\BSE-4B\assignments\DBMS lab\dbms web app\dbms web app\bin\Microsoft.AspNet.FriendlyUrls.xml
+F:\BSE-4B\assignments\DBMS lab\dbms web app\dbms web app\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\BSE-4B\assignments\DBMS lab\dbms web app\dbms web app\obj\Debug\dbms web app.csproj.AssemblyReference.cache
+F:\BSE-4B\assignments\DBMS lab\dbms web app\dbms web app\obj\Debug\dbms web app.csproj.CoreCompileInputs.cache
+F:\BSE-4B\assignments\DBMS lab\dbms web app\dbms web app\obj\Debug\dbms web app.csproj.CopyComplete
+F:\BSE-4B\assignments\DBMS lab\dbms web app\dbms web app\obj\Debug\dbms web app.dll
+F:\BSE-4B\assignments\DBMS lab\dbms web app\dbms web app\obj\Debug\dbms web app.pdb

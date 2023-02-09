@@ -1,0 +1,11 @@
+F:\BSE-4B\assignments\DBMS lab\crud application\crud application\bin\Debug\crud application.exe.config
+F:\BSE-4B\assignments\DBMS lab\crud application\crud application\bin\Debug\crud application.exe
+F:\BSE-4B\assignments\DBMS lab\crud application\crud application\bin\Debug\crud application.pdb
+F:\BSE-4B\assignments\DBMS lab\crud application\crud application\obj\Debug\crud application.csproj.AssemblyReference.cache
+F:\BSE-4B\assignments\DBMS lab\crud application\crud application\obj\Debug\crud application.csproj.SuggestedBindingRedirects.cache
+F:\BSE-4B\assignments\DBMS lab\crud application\crud application\obj\Debug\crud_application.Form1.resources
+F:\BSE-4B\assignments\DBMS lab\crud application\crud application\obj\Debug\crud_application.Properties.Resources.resources
+F:\BSE-4B\assignments\DBMS lab\crud application\crud application\obj\Debug\crud application.csproj.GenerateResource.cache
+F:\BSE-4B\assignments\DBMS lab\crud application\crud application\obj\Debug\crud application.csproj.CoreCompileInputs.cache
+F:\BSE-4B\assignments\DBMS lab\crud application\crud application\obj\Debug\crud application.exe
+F:\BSE-4B\assignments\DBMS lab\crud application\crud application\obj\Debug\crud application.pdb
